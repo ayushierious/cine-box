@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>hello bhi</h1>
-      <button>stream</button>
+      <button>I'm a button</button>
     </div>
   );
 }
